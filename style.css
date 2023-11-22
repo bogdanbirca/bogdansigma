@@ -22,3 +22,16 @@
     height: 600px;
 
 }
+
+div+a {
+    background-color: red;
+
+}
+
+div>h1 {
+    background-color:blue;
+}
+
+div p {
+    background-color: orange;
+}
